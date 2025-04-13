@@ -1,4 +1,4 @@
-# 👋 Olá! / Hi there! I’m @Dinininh0  
+# 👋 Olá! / Hi there! I’m @AdelinoBard  
 
 ### 🚀 Desenvolvedor Backend .NET & Azure | C# Enthusiast  
 
