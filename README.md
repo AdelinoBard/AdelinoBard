@@ -1,20 +1,61 @@
 # 👋 Olá! / Hi there! I’m @Dinininh0  
 
-## 🇧🇷 Sobre Mim / About Me (English Below)  
-- 👀 Tenho interesse em desenvolvimento backend e tudo o que o envolve.  
-- 🌱 Atualmente estou me aprofundando em C# e desenvolvimento Azure. Também já estudei Python e agora estou focado em frameworks .NET, como ASP.NET Core (plataforma de desenvolvimento web da Microsoft) e MVC Framework para criação de sites e aplicações.  
-- 💞️ Busco colaborar em projetos de backend para aprimorar minhas habilidades em cenários reais.  
-- 📫 Entre em contato comigo pelo e-mail adelino.bard@gmail.com (perfil no LinkedIn em construção).  
-- 😄 Curiosidade: Sou pai das pets Amy e Roma. Tenho paixão por aprender sempre, adoro o dia e meu hobby é estar em contato com a natureza.  
+### 🚀 Desenvolvedor Backend .NET & Azure | C# Enthusiast  
 
----
+---  
+
+## 🇧🇷 Sobre Mim  
+💻 **Foco**: Desenvolvedor backend apaixonado por arquitetura de sistemas e soluções escaláveis na nuvem.  
+🌱 **Atualmente**: Mergulhando em:  
+- .NET 6+/Core  
+- ASP.NET MVC & Web API  
+- Azure Services (App Services, Functions, SQL Database)  
+- Padrões de design e clean code  
+
+🐍 **Background**: Experiência prévia com Python para automação e scripts.  
+
+🤝 **Colaboração**: Aberto para contribuir em projetos open-source ou ideias inovadoras na stack .NET.  
+
+📫 **Contato**:  
+- ✉️ E-mail: [adelino.bard@gmail.com](mailto:adelino.bard@gmail.com)  
+- 🔗 LinkedIn: *(em breve)*  
+
+🐾 **Curiosidade**: Sou pai das pets Amy e Roma. Amante de trilhas, café forte e desafios de lógica.  
+
+---  
 
 ## 🇺🇸 About Me  
-- 👀 I’m interested in backend development and everything that revolves around it.  
-- 🌱 I’m currently diving deep into C# and Azure development. I’ve also explored Python and am now focusing on .NET frameworks like ASP.NET Core (Microsoft's web development platform) and MVC Framework for building websites and applications.  
-- 💞️ I’m looking to collaborate in backend projects and sharpen my skills in real-world scenarios.  
-- 📫 You can reach me at adelino.bard@gmail.com (LinkedIn profile under construction).  
-- 😄 Fun fact: I’m the proud pet parent of Amy and Roma. I’m a lifelong learner, love the daytime, and find peace being connected with nature as a hobby.  
+💻 **Focus**: Backend developer passionate about system architecture and scalable cloud solutions.  
+🌱 **Currently Exploring**:  
+- .NET 6+/Core  
+- ASP.NET MVC & Web API  
+- Azure Services (App Services, Functions, SQL Database)  
+- Design patterns and clean code  
+
+🐍 **Background**: Previous experience with Python for automation and scripting.  
+
+🤝 **Collaboration**: Open to contributing to open-source projects or innovative ideas in the .NET stack.  
+
+📫 **Get in Touch**:  
+- ✉️ Email: [adelino.bard@gmail.com](mailto:adelino.bard@gmail.com)  
+- 🔗 LinkedIn: *(coming soon)*  
+
+🐾 **Fun Fact**: Proud dad of Amy and Roma. Love hiking, strong coffee, and logic puzzles.  
+
+---  
+
+### 🛠️ Tech Stack  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+
+---  
+
+✨ *"Código limpo é como poesia - cada linha conta."* / *"Clean code is like poetry - every line matters."*  
+✨ *"Assim como um bom artesão cuida de suas ferramentas, um bom programador cuida de seu código."* / *"Just as a good craftsman takes care of his tools, a good programmer takes care of their code."*
+
+---
 
 <!---
 AdelinoBard/AdelinoBard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
