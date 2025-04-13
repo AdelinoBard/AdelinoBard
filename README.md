@@ -5,7 +5,9 @@
 ---  
 
 ## 🇧🇷 Sobre Mim  
-💻 **Foco**: Desenvolvedor backend apaixonado por arquitetura de sistemas e soluções escaláveis na nuvem.  
+
+💻 **Foco**: Desenvolvedor backend interessado por arquitetura de sistemas e soluções escaláveis na nuvem.  
+
 🌱 **Atualmente**: Mergulhando em:  
 - .NET 6+/Core  
 - ASP.NET MVC & Web API  
@@ -25,7 +27,9 @@
 ---  
 
 ## 🇺🇸 About Me  
-💻 **Focus**: Backend developer passionate about system architecture and scalable cloud solutions.  
+
+💻 **Focus**: Backend developer interested about systems architecture and scalable cloud solutions.
+
 🌱 **Currently Exploring**:  
 - .NET 6+/Core  
 - ASP.NET MVC & Web API  
