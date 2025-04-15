@@ -9,7 +9,7 @@
 💻 **Foco**: Desenvolvedor backend interessado por arquitetura de sistemas e soluções escaláveis na nuvem.  
 
 🌱 **Atualmente**: Mergulhando em:  
-- .NET 6+/Core  
+- .NET 8+/9+ & Core  
 - ASP.NET MVC & Web API  
 - Azure Services (App Services, Functions, SQL Database)  
 - Padrões de design e clean code  
@@ -31,7 +31,7 @@
 💻 **Focus**: Backend developer interested about systems architecture and scalable cloud solutions.
 
 🌱 **Currently Exploring**:  
-- .NET 6+/Core  
+- .NET 8+/9+ & Core  
 - ASP.NET MVC & Web API  
 - Azure Services (App Services, Functions, SQL Database)  
 - Design patterns and clean code  
@@ -51,6 +51,8 @@
 ### 🛠️ Tech Stack  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
+![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?logo=dotnet&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 
