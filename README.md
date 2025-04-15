@@ -49,11 +49,11 @@
 ---  
 
 ### 🛠️ Tech Stack  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
-![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
-![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)<br>  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)<br>  
+![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)<br>
+![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?logo=dotnet&logoColor=white)<br>
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 
 ---  
