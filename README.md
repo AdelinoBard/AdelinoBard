@@ -14,12 +14,21 @@
 - Azure Services (App Services, Functions, SQL Database)  
 - Padrões de design e clean code  
 
+## 🎓 Formação
+- 🎯 **Concluído:**
+  - Graduado em Análise e Desenvolvimento de Sistemas - UNESA (2021)
+  - Especialização em Engenharia de Software - UNESA (2021)
+- 🔥 **Foco atual:**
+  - Preparando-se para a certificação Microsoft Azure Developer (AZ-900)
+  - Melhores práticas de arquitetura de nuvem
+
 🐍 **Background**: Experiência prévia com Python para automação e scripts.  
 
 🤝 **Colaboração**: Aberto para contribuir em projetos open-source ou ideias inovadoras na stack .NET.  
 
 📫 **Contato**:  
 - ✉️ E-mail: [adelino.bard@gmail.com](mailto:adelino.bard@gmail.com)  
+- ✉️ E-mail: [adelino.bard@outlook.com](mailto:adelino.bard@outlook.com)  
 - 🔗 LinkedIn: *(em breve)*  
 
 🐾 **Curiosidade**: Sou pai das pets Amy e Roma. Amante de trilhas, café forte e desafios de lógica.  
@@ -36,12 +45,21 @@
 - Azure Services (App Services, Functions, SQL Database)  
 - Design patterns and clean code  
 
+## 🎓 Education
+- 🎯 **Completed Degrees:**
+  - Associate in Systems Analysis & Development - UNESA (2021)
+  - Software Engineering Specialization - UNESA (2021)
+- 🔥 **Current Focus:**
+  - Preparing for Microsoft Azure Developer (AZ-900) certification
+  - Cloud Architecture best practices
+
 🐍 **Background**: Previous experience with Python for automation and scripting.  
 
 🤝 **Collaboration**: Open to contributing to open-source projects or innovative ideas in the .NET stack.  
 
 📫 **Get in Touch**:  
 - ✉️ Email: [adelino.bard@gmail.com](mailto:adelino.bard@gmail.com)  
+- ✉️ E-mail: [adelino.bard@outlook.com](mailto:adelino.bard@outlook.com) 
 - 🔗 LinkedIn: *(coming soon)*  
 
 🐾 **Fun Fact**: Proud dad of Amy and Roma. Love hiking, strong coffee, and logic puzzles.  
