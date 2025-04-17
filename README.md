@@ -13,6 +13,7 @@
 - ASP.NET MVC & Web API  
 - Azure Services (App Services, Functions, SQL Database)  
 - Padrões de design e clean code  
+🐍 **Background**: Experiência prévia com Python para automação e scripts.  
 
 ## 🎓 Formação
 - 🎯 **Concluído:**
@@ -21,18 +22,15 @@
 - 🔥 **Foco atual:**
   - Preparando-se para a certificação Microsoft Azure Developer (AZ-900)
   - Melhores práticas de arquitetura de nuvem
-
-🐍 **Background**: Experiência prévia com Python para automação e scripts.  
-
-🤝 **Colaboração**: Aberto para contribuir em projetos open-source ou ideias inovadoras na stack .NET.  
-
-📫 **Contato**:  
+ 
+## 📫 **Contato**:  
 - ✉️ E-mail: [adelino.bard@gmail.com](mailto:adelino.bard@gmail.com)  
 - ✉️ E-mail: [adelino.bard@outlook.com](mailto:adelino.bard@outlook.com)  
 - 🔗 LinkedIn: *(em breve)*  
 
 🐾 **Curiosidade**: Sou pai das pets Amy e Roma. Amante de trilhas, café forte e desafios de lógica.  
 
+🤝 **Colaboração**: Aberto para contribuir em projetos open-source ou ideias inovadoras na stack .NET.  
 ---  
 
 ## 🇺🇸 About Me  
@@ -44,6 +42,7 @@
 - ASP.NET MVC & Web API  
 - Azure Services (App Services, Functions, SQL Database)  
 - Design patterns and clean code  
+🐍 **Background**: Previous experience with Python for automation and scripting.  
 
 ## 🎓 Education
 - 🎯 **Completed Degrees:**
@@ -52,17 +51,15 @@
 - 🔥 **Current Focus:**
   - Preparing for Microsoft Azure Developer (AZ-900) certification
   - Cloud Architecture best practices
-
-🐍 **Background**: Previous experience with Python for automation and scripting.  
-
-🤝 **Collaboration**: Open to contributing to open-source projects or innovative ideas in the .NET stack.  
-
-📫 **Get in Touch**:  
+ 
+## 📫 **Get in Touch**:  
 - ✉️ Email: [adelino.bard@gmail.com](mailto:adelino.bard@gmail.com)  
 - ✉️ E-mail: [adelino.bard@outlook.com](mailto:adelino.bard@outlook.com) 
 - 🔗 LinkedIn: *(coming soon)*  
 
 🐾 **Fun Fact**: Proud dad of Amy and Roma. Love hiking, strong coffee, and logic puzzles.  
+
+🤝 **Collaboration**: Open to contributing to open-source projects or innovative ideas in the .NET stack.  
 
 ---  
 
