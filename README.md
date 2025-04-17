@@ -32,6 +32,7 @@
 🐾 **Curiosidade**: Sou pai das pets Amy e Roma. Amante de trilhas, café forte e desafios de lógica.  
 
 🤝 **Colaboração**: Aberto para contribuir em projetos open-source ou ideias inovadoras na stack .NET.  
+
 ---  
 
 ## 🇺🇸 About Me  
