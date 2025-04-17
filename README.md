@@ -12,7 +12,8 @@
 - .NET 8+/9+ & Core  
 - ASP.NET MVC & Web API  
 - Azure Services (App Services, Functions, SQL Database)  
-- Padrões de design e clean code  
+- Padrões de design e clean code
+
 🐍 **Background**: Experiência prévia com Python para automação e scripts.  
 
 ## 🎓 Formação
@@ -42,6 +43,7 @@
 - ASP.NET MVC & Web API  
 - Azure Services (App Services, Functions, SQL Database)  
 - Design patterns and clean code  
+
 🐍 **Background**: Previous experience with Python for automation and scripting.  
 
 ## 🎓 Education
