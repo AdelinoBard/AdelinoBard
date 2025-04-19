@@ -9,9 +9,9 @@
 💻 **Foco**: Desenvolvedor backend interessado por arquitetura de sistemas e soluções escaláveis na nuvem.  
 
 🌱 **Atualmente**: Mergulhando em:  
-- .NET 8+/9+ & Core  
+- .NET 8+/9+
 - ASP.NET MVC & Web API  
-- Azure Services (App Services, Functions, SQL Database)  
+- Azure Services
 - Padrões de design e clean code
 
 🐍 **Background**: Experiência prévia com Python para automação e scripts.  
@@ -21,7 +21,7 @@
   - Graduado em Análise e Desenvolvimento de Sistemas - UNESA (2021)
   - Especialização em Engenharia de Software - UNESA (2021)
 - 🔥 **Foco atual:**
-  - Preparando-se para a certificação Microsoft Azure Developer (AZ-900)
+  - Preparando-se para a certificação Microsoft Azure Developer (AZ-204)
   - Melhores práticas de arquitetura de nuvem
  
 ## 📫 **Contato**:  
@@ -40,9 +40,9 @@
 💻 **Focus**: Backend developer interested about systems architecture and scalable cloud solutions.
 
 🌱 **Currently Exploring**:  
-- .NET 8+/9+ & Core  
+- .NET 8+/9+
 - ASP.NET MVC & Web API  
-- Azure Services (App Services, Functions, SQL Database)  
+- Azure Services
 - Design patterns and clean code  
 
 🐍 **Background**: Previous experience with Python for automation and scripting.  
@@ -52,7 +52,7 @@
   - Associate in Systems Analysis & Development - UNESA (2021)
   - Software Engineering Specialization - UNESA (2021)
 - 🔥 **Current Focus:**
-  - Preparing for Microsoft Azure Developer (AZ-900) certification
+  - Preparing for Microsoft Azure Developer (AZ-204) certification
   - Cloud Architecture best practices
  
 ## 📫 **Get in Touch**:  
