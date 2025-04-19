@@ -8,7 +8,7 @@
 
 💻 **Foco**: Desenvolvedor backend interessado por arquitetura de sistemas e soluções escaláveis na nuvem.  
 
-🌱 **Atualmente**: Mergulhando em:  
+🌱 **Atualmente**: Mergulhado em:  
 - .NET 8+/9+
 - ASP.NET MVC & Web API  
 - Azure Services
