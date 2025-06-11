@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o @AdelinoBard
 
-### Desenvolvedor Backend .NET & Azure | Entusiasta de C#
+### Desenvolvedor Backend .NET | Entusiasta de C#
 
 ---
 
