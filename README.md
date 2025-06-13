@@ -63,32 +63,32 @@
 
 #### **📌 Backend & Cloud**
 
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://)  
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://)  
-[![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)](https://)  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://)  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://) _(Adicionado!)_
+- [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://)
+- [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://)
+- [![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)](https://)
+- [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://)
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://)
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://)
 
 #### **🗃️ Bancos de Dados**
 
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)](https://)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://)
+- [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)](https://)
+- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://)
 
 #### **🧪 Testes & Qualidade**
 
-[![Xunit](https://img.shields.io/badge/Xunit-007ACC?logo=.net&logoColor=white)](https://)  
-[![FluentAssertions](https://img.shields.io/badge/FluentAssertions-512BD4?logo=dotnet&logoColor=white)](https://)
+- [![Xunit](https://img.shields.io/badge/Xunit-007ACC?logo=.net&logoColor=white)](https://)
+- [![FluentAssertions](https://img.shields.io/badge/FluentAssertions-512BD4?logo=dotnet&logoColor=white)](https://)
 
 #### **🌐 Frontend & Web**
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://) _(Adicionado!)_  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://) _(Adicionado!)_  
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://) _(Adicionado!)_  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://) _(Adicionado!)_
+- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://)
+- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://)
+- [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://)
+- [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://)
 
 ---
 
