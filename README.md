@@ -4,32 +4,32 @@
 
 ---
 
-## Sobre Mim
+## **Sobre Mim**
 
 **Foco**: Desenvolvimento backend com ênfase em arquitetura de sistemas e soluções escaláveis na nuvem.
 
 **Atualmente imerso em**:
 
-- **Backend & Arquitetura**
+* **Backend & Arquitetura**
 
-  - .NET 8+/9+, ASP.NET (MVC & Web API)
-  - PHP (APIs e scripts)
-  - Python (Automações e scripts)
-  - Clean Code, Padrões de Projeto (SOLID, DDD)
+  * .NET 8+/9+, ASP.NET (MVC & Web API)
+  * PHP com **Laravel** (APIs modernas, manutenção e estruturação de projetos)
+  * Python (Automações e scripts)
+  * Clean Code, Padrões de Projeto (SOLID, DDD)
 
-- **Cloud & Banco de Dados**
+* **Cloud & Banco de Dados**
 
-  - Azure Services (PaaS, IaaS, Serverless)
-  - SQL (MySQL, MariaDB, PostgreSQL)
+  * Azure Services (PaaS, IaaS, Serverless)
+  * SQL (MySQL, MariaDB, PostgreSQL)
 
-- **Testes & Qualidade de Código**
+* **Testes & Qualidade de Código**
 
-  - xUnit, FluentAssertions, Moq (Testes unitários e mocking)
+  * xUnit, FluentAssertions, Moq (Testes unitários e mocking)
 
-- **Frontend & Integrações**
+* **Frontend & Integrações**
 
-  - HTML/CSS, JavaScript, TypeScript
-  - React (Interfaces dinâmicas)
+  * HTML/CSS, JavaScript, TypeScript
+  * React (Interfaces dinâmicas)
 
 ---
 
