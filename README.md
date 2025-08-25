@@ -1,3 +1,5 @@
+
+```Plaintext
 **name:** Adelino Bard
 **located_in:** Brasil
 **job:** Entusiasta de .NET e Arquitetura de Software
@@ -7,3 +9,4 @@
 **currently_learning:** ["C#", "TypeScript", "SQL", "AspNet Core", "Angular", "Arquitetura/Engenharia"]
 **will_learn:** ["Certificação Microsoft Azure Developer (AZ-204)"]
 **hobbies:** ["Jogos Competitivos", "Trilhas", "Café Forte", "Pets"]
+```
